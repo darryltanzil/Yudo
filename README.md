@@ -1,4 +1,4 @@
-# Yudo Fitness Trainer
+# Yudo Fitness Trainer 💪
 
 Presenting Yudo! Our approach to innovating exercise with technology. Uses a custom-developed exercise detection algorithm, self-created datasets, TensorFlow AI, and Chat-GPT3 to help users improve their form and state relative accuracy score, feedback, and compliments/criticisms while doing various exercises. 
 
