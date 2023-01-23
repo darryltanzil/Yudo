@@ -11,7 +11,7 @@ Yudo is an exercise web app that uses **TensorFlow AI**, a custom-developed exer
 Once you open the web app, select your desired workout and Yudo will provide a quick exercise demo video. The closer your form matches the demo, the higher your accuracy score will be. After completing an exercise, Yudo will provide feedback generated via **ChatGPT** to help users identify and correct the discrepancies in their form.
 
 ## What we learned
-- How to use TensorFlow AI and React
+- How to use TensorFlow AI and React and create strong, accurate datasets
 - Practical applications of mathematics in computer science algorithms
 
 ![image](https://user-images.githubusercontent.com/5387769/213974740-06054471-6993-4925-9dff-53178f03084b.png)
