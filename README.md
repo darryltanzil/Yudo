@@ -1,7 +1,7 @@
 # Yudo Fitness Trainer 💪
 
-<a href='https://youtube.com/clip/UgkxevRDWrqjLNgejbbYSHf2fjjDX6NBjNUu?si=N6FooDkYxeJu5m7S'>
 ![image](https://github.com/darryltanzil/Yudo/assets/5387769/e756c2f6-9c5c-449a-87bc-051b5cf4f9ce)
+<a href='https://youtube.com/clip/UgkxevRDWrqjLNgejbbYSHf2fjjDX6NBjNUu?si=N6FooDkYxeJu5m7S'>
 Video of win!
 </a>
 
