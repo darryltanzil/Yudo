@@ -1,5 +1,10 @@
 # Yudo Fitness Trainer 💪
 
+<a href='https://youtube.com/clip/UgkxevRDWrqjLNgejbbYSHf2fjjDX6NBjNUu?si=N6FooDkYxeJu5m7S'>
+![image](https://github.com/darryltanzil/Yudo/assets/5387769/e756c2f6-9c5c-449a-87bc-051b5cf4f9ce)
+Video of win!
+</a>
+
 Presenting Yudo! Our approach to innovating exercise with technology. Uses a custom-developed exercise detection algorithm, self-created datasets, TensorFlow AI, and Chat-GPT3 to help users improve their form and state relative accuracy score, feedback, and compliments/criticisms while doing various exercises. 
 
 ## Inspiration
